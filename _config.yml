@@ -11,9 +11,9 @@ title                    : "Xavier Jiménez-Albán"
 title_separator          : "-"
 name                     : &name "Xavier Jiménez Albán"
 description              : &description "Statistician, Economist, Accountant. Bridging Finance and Systems"
-url                      : https://xavijimenez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xavierjimenezalban.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xavijimenez/xavijimenez.github.io"
+repository               : "xavierjimenezalban/xavierjimenezalban.github.io.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   xavnez                    : &twitter
 LinkedIn:
-  xavijimenez               : &linkedin
+  xavierjimenezalban               : &linkedin
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xavijimenez"
+  github           : "xavierjimenezalban"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xavijimenez"
+  linkedin         : "xavierjimenezalban"
   orcid            : "https://orcid.org/0000-0002-7227-9392"
   pinterest        :
   soundcloud       :
